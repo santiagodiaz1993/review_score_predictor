@@ -1,3 +1,6 @@
+# Project file/directories to ignore
+review_data/
+yelp_academic_dataset_review.json
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
